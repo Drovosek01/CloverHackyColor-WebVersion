@@ -1,8 +1,16 @@
 # Веб версия книги-документации Clover цвета хаки
 
-## Русская версия: ПОСЛЕДНЯЯ
+## Русская версия: ПОСЛЕДНЯЯ (5128)
 
-## English version: LATEST
+- [Облегченная версия](/russian/5128/from Word/Clover_Khaki_Color_rus_5128.htm)
+
+- ["Модерн" версия](/russian/5128/from Cloudconvert/Clover_Khaki_Color_rus_5128.html)
+
+## English version: LATEST (5128)
+
+- [Lite version](/english/5128/from Word/Clover_Khaki_Color_eng_5128.htm)
+
+- ["Modern" verion](/english/5128/from Cloudconvert/Clover_Khaki_Color_eng_5128.html)
 
 ## Описание
 
