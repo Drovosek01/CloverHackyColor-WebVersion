@@ -1,18 +1,18 @@
 # Веб версия книги-документации Clover цвета хаки
 
-## Русская версия: ПОСЛЕДНЯЯ (5128)
+## Русская версия: ПОСЛЕДНЯЯ (5129)
 
-- [Облегченная версия](/russian/from Word/Clover_Khaki_Color_rus_5128.htm)
+- [Облегченная версия](/russian/from Word/Clover_Of_Khaki_Color_rus_5129.htm)
 
-- ["Модерн" версия](/russian/from Cloudconvert/Clover_Khaki_Color_rus_5128.html)
+- ["Модерн" версия](/russian/from Cloudconvert/Clover_Of_Khaki_Color_rus_5129.html)
 
     - не работает Ctr+F по всему документу
 
-## English version: LATEST (5128)
+## English version: LATEST (5129)
 
-- [Lite version](/english/from Word/Clover_Khaki_Color_eng_5128.htm)
+- [Lite version](/english/from Word/Clover_Of_Khaki_Color_eng_5129.htm)
 
-- ["Modern" verion](/english/from Cloudconvert/Clover_Khaki_Color_eng_5128.html)
+- ["Modern" verion](/english/from Cloudconvert/Clover_Of_Khaki_Color_eng_5129.html)
     - Ctrl+F doesn't work all over the document
 
 ## Описание
