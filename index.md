@@ -2,17 +2,17 @@
 
 ## Русская версия: ПОСЛЕДНЯЯ (5128)
 
-- [Облегченная версия](/russian/5128/from Word/Clover_Khaki_Color_rus_5128.htm)
+- [Облегченная версия](/russian/from Word/Clover_Khaki_Color_rus_5128.htm)
 
-- ["Модерн" версия](/russian/5128/from Cloudconvert/Clover_Khaki_Color_rus_5128.html)
+- ["Модерн" версия](/russian/from Cloudconvert/Clover_Khaki_Color_rus_5128.html)
 
     - не работает Ctr+F по всему документу
 
 ## English version: LATEST (5128)
 
-- [Lite version](/english/5128/from Word/Clover_Khaki_Color_eng_5128.htm)
+- [Lite version](/english/from Word/Clover_Khaki_Color_eng_5128.htm)
 
-- ["Modern" verion](/english/5128/from Cloudconvert/Clover_Khaki_Color_eng_5128.html)
+- ["Modern" verion](/english/from Cloudconvert/Clover_Khaki_Color_eng_5128.html)
     - Ctrl+F doesn't work all over the document
 
 ## Описание
